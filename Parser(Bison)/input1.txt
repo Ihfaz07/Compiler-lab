@@ -1,0 +1,10 @@
+x = y / 5;
+if ( a ) {
+    if( a < b ) {
+        m = 5;
+    } else {
+        m = 10;
+    }
+} else {
+    x = y + z;
+}
